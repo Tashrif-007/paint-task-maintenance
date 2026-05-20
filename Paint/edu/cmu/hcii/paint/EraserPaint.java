@@ -8,11 +8,5 @@ public class EraserPaint extends PencilPaint {
 		this.color = Color.white;
         
     }
-    
-    public void setThickness(int thickness) {
-    	
-    	this.thickness = 25;
-    	
-    }
   
 }
